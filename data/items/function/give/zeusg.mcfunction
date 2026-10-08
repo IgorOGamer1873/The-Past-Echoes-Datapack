@@ -1,0 +1,1 @@
+give @p golden_spear[custom_data={Zeus:1b,IE:1b},custom_name={"bold":true,"color":"gold","italic":false,"obfuscated":false,"strikethrough":false,"text":"Fúria de Zeus","underlined":false},unbreakable={},enchantments={"knockback":2},lore=[{"bold":true,"color":"gold","text":"Vindo do Deus do Trovão."}]] 1

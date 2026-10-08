@@ -1,0 +1,1 @@
+execute as @s at @s run effect give @e[distance=0.5..10] slowness 45 2 true

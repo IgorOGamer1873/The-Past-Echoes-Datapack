@@ -1,0 +1,1 @@
+give @p ender_pearl[use_cooldown={seconds:15},custom_data={End:1b,IE:1b},custom_name={"bold":true,"color":"light_purple","italic":false,"text":"Pérola Final"}] 2

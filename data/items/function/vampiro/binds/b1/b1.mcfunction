@@ -1,0 +1,1 @@
+execute as @a if score @s Ligamento_Espada_Do_Vampiro matches 1 run function items:vampiro/binds/b1/b1.2

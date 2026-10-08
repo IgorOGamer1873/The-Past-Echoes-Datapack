@@ -1,0 +1,1 @@
+execute as @a if items entity @s weapon.mainhand netherite_axe[custom_data={A:1b,IE:1b}] run function items:aaxe/path

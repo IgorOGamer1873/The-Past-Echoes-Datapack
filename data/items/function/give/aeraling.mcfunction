@@ -1,0 +1,1 @@
+give @s diamond[enchantment_glint_override=true,custom_name={"text":"Coração de Aeralin","color":"aqua","bold":true,"italic":false},custom_data={Aeralin:1b,IE:1b},lore=[{"bold":true,"color":"aqua","text":"Dizem que nasceu do desejo de curar pertencente a um Ser Ancestral"}]] 1

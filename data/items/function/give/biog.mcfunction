@@ -1,0 +1,1 @@
+give @p nether_star[custom_data={Bio:1b,IE:1b},custom_name={"bold":true,"color":"aqua","italic":false,"text":"Bio-Catalisador"},lore=[{"bold":true,"color":"aqua","italic":false,"text":"Consegue roubar propriedades Players com Itens Poderosos"}]] 1

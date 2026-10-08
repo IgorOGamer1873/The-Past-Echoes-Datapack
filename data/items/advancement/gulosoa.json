@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "using_item": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:golden_sword",
+            "predicates": {
+              "minecraft:custom_data": "{Guloso:1b,E:1b,IE:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "items:guloso/ativa/ativa1"
+    }
+  }

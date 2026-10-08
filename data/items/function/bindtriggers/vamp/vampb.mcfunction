@@ -1,0 +1,2 @@
+execute as @a unless items entity @s container.* iron_sword[custom_data={Vamp:1b,IE:1b,E:1b}] run scoreboard players reset @s Ligamento_Espada_Do_Vampiro
+execute as @a[tag=TemBind] if items entity @s weapon.mainhand iron_sword[custom_data={Vamp:1b,IE:1b,E:1b}] run scoreboard players enable @s Ligamento_Espada_Do_Vampiro

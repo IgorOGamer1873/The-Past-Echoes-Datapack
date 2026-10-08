@@ -1,0 +1,1 @@
+give @p minecraft:iron_sword[unbreakable={},custom_name={"text":"Espada do Vampiro evoluída","color":"dark_red","bold":true,"italic":false},custom_data={Vamp:1b,IE:1b,E:1b},lore=[{"bold":true,"color":"dark_red","text":"Vindo do vampiro mais temido do universo."}],consumable={consume_seconds:1000000000}]

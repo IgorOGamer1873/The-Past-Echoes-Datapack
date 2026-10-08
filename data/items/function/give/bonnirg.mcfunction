@@ -1,0 +1,1 @@
+give @p rabbit_foot[custom_name={"bold":true,"color":"green","italic":false,"text":"Pé de Bonnir"},custom_data={Bonnir:1b,IE:1b},lore=[{"bold":true,"color":"green","text":"Vindo de um ser com o único desejo de correr."}]] 1

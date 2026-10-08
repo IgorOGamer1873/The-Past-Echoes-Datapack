@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "using_item": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:light_blue_dye",
+            "predicates": {
+              "minecraft:custom_data": "{MM:1b,IE:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "items:chipm/chipm"
+    }
+  }

@@ -1,0 +1,1 @@
+give @s phantom_membrane[minecraft:custom_name={"bold":true,"color":"#8C8C8C","text":"Membrana Espectral"},minecraft:consumable={consume_seconds:1000000000},minecraft:custom_data={Esp:1b,IE:1b},lore=[{"bold":true,"color":"#8C8C8C","text":"Vindo de um espectro que ficava invisível."}]] 1

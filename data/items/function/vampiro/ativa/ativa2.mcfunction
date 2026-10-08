@@ -1,0 +1,1 @@
+scoreboard players set @s VampA 7200

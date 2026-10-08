@@ -1,0 +1,1 @@
+give @s player_head[minecraft:profile={name:IgorOGamer1873},custom_name={text:"Datapack Creator's, IgorOGamer1873",color:dark_red,bold:true,italic:false}]

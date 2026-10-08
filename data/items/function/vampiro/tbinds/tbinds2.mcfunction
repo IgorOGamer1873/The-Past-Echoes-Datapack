@@ -1,0 +1,5 @@
+tellraw @s {text:"O que as Bindings desse item faz?"}
+tellraw @s {text:"Binding 1: -Cooldown"}
+tellraw @s {text:"Binding 2: Velocidade na ativa"}
+tellraw @s {text:"Binding 3: Força na ativa"}
+scoreboard players set @s Ligamento_Espada_Do_Vampiro 0

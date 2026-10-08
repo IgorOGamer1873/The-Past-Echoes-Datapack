@@ -1,0 +1,1 @@
+give @s netherite_axe[custom_data={M:1b,IE:1b},custom_name={"bold":true,"color":"gray","italic":false,"text":"Machado de Maeron"},unbreakable={},consumable={consume_seconds:1000000000},lore=[{"bold":true,"color":"gray","text":"Pertenceu ao primeiro a ter vida"}]] 1

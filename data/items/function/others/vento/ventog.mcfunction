@@ -1,0 +1,1 @@
+give @p minecraft:elytra[unbreakable={},custom_name={"text":"Capa de Vento","color":"gray","bold":true,"italic":false},custom_data={capa_vento:1b,IE:1b}]

@@ -1,0 +1,1 @@
+give @p minecraft:gray_dye[custom_name={"text":"Totem do Lobisomem evoluído","color":"gray","bold":true,"italic":false},minecraft:custom_data={lobisomem:1b,IE:1b,E:1b},lore=[{"bold":true,"color":"gray","text":"Vindo do Lobisomem mais feroz já existente."}],consumable={consume_seconds:1000000000}]

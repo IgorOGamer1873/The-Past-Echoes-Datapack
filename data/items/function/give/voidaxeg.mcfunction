@@ -1,0 +1,1 @@
+give @s netherite_axe[custom_data={Void:1b,IE:1b},custom_name={"bold":true,"color":"black","italic":false,"text":"Machado de Zayros"},unbreakable={},consumable={consume_seconds:1000000000},lore=[{"bold":true,"color":"black","text":"Pertenceu ao Deus da Destruição"}]] 1

@@ -1,0 +1,1 @@
+give @s nether_star[custom_data={Core:1b,IE:1b},custom_name={"bold":true,"color":"black","italic":false,"text":"Núcleo Divino"}] 1

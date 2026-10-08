@@ -1,0 +1,1 @@
+give @p goat_horn[instrument="minecraft:ponder_goat_horn",custom_data={Horn:1b,IE:1b},custom_name={"bold":true,"color":"dark_gray","italic":false,"text":"Grito De Ferrun"},lore=[{"bold":true,"color":"dark_gray","text":"Representa o último grito de um Forte Golem."}]] 1

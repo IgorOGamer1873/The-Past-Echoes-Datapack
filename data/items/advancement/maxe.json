@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "using_item": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:netherite_axe",
+            "predicates": {
+              "minecraft:custom_data": "{M:1b,IE:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "items:maxe/ativa/ativa"
+    }
+  }

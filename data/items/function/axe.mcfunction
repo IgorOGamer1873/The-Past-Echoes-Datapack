@@ -1,0 +1,2 @@
+execute as @a if items entity @s weapon.mainhand minecraft:netherite_axe[minecraft:custom_data={Sac:1b,IE:1b}] run attribute @s minecraft:max_health base set 15
+execute as @a if items entity @s weapon.mainhand minecraft:netherite_axe[minecraft:custom_data={Sac:1b,IE:1b}] run effect give @s minecraft:strength 1 1 true

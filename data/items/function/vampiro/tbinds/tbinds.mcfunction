@@ -1,0 +1,1 @@
+execute as @a if score @s Ligamento_Espada_Do_Vampiro matches 4 run function items:vampiro/tbinds/tbinds2

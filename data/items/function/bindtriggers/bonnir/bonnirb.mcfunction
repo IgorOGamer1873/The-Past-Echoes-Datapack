@@ -1,0 +1,2 @@
+execute as @a unless items entity @s container.* rabbit_foot[custom_data={Bonnir:1b,IE:1b,E:1b}] run scoreboard players reset @s Ligamento_Pe_De_Bonnir
+execute as @a[tag=TemBind] if items entity @s weapon.mainhand rabbit_foot[custom_data={Bonnir:1b,IE:1b,E:1b}] run scoreboard players enable @s Ligamento_Pe_De_Bonnir

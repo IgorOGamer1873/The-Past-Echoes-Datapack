@@ -1,0 +1,1 @@
+give @p diamond_axe[custom_data={Sac:1b,IE:1b},custom_name={"bold":true,"color":"dark_red","italic":false,"text":"Machado de Batalha do Hastor"},unbreakable={},lore=[{"bold":true,"color":"dark_red","text":"Vindo do herói que fez o vilão surgir."}]] 1

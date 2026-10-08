@@ -1,0 +1,1 @@
+execute as @a if items entity @s container.* red_dye[minecraft:custom_data={Berserker:1b,IE:1b}] if score Server BersCColec matches 0 run function items:coleccb2

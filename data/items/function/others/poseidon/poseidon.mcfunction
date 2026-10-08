@@ -1,0 +1,1 @@
+execute as @a if items entity @s container.* heart_of_the_sea[custom_data={Poseidon:1b,IE:1b}] run function items:poseidon2

@@ -1,0 +1,1 @@
+give @p minecraft:golden_sword[unbreakable={},custom_name={"text":"Espada do Guloso evoluida","color":"green","bold":true,"italic":false},custom_data={Guloso:1b,IE:1b,E:1b},lore=[{"bold":true,"color":"green","text":"Vindo do ser mais esfomeado do universo."}],consumable={consume_seconds:1000000000}]

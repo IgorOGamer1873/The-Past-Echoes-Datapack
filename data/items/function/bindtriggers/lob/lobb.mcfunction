@@ -1,0 +1,2 @@
+execute as @a unless items entity @s container.* gray_dye[custom_data={lobisomem:1b,IE:1b,E:1b}] run scoreboard players reset @s Ligamento_Totem_do_Lobisomem
+execute as @a[tag=TemBind] if items entity @s weapon.mainhand gray_dye[custom_data={lobisomem:1b,IE:1b,E:1b}] run scoreboard players enable @s Ligamento_Totem_do_Lobisomem

@@ -1,0 +1,1 @@
+execute as @a at @s if items entity @s weapon.mainhand blaze_rod[custom_data={VI:1b,IE:1b,E:1b}] if block ~ ~ ~ lava run effect give @s regeneration 1 0 true

@@ -1,0 +1,1 @@
+give @s black_dye[custom_name={"text":"Coração de Zayros","color":"black","bold":true,"italic":false},minecraft:custom_data={BVoid:1b,IE:1b},consumable={consume_seconds:1000000000},lore=[{"bold":true,"color":"black","text":"Vindo apenas do Vazio puro e da destruição."}]] 1

@@ -1,0 +1,1 @@
+execute as @e[distance=0.5..7.5] run damage @s 5 magic

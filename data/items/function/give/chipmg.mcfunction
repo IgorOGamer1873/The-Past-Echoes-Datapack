@@ -1,0 +1,1 @@
+give @s minecraft:light_blue_dye[minecraft:custom_data={MM:1b,IE:1b},minecraft:consumable={consume_seconds:1000000000},minecraft:custom_name={"bold":true,"text":"Chip-Mestre","color":"aqua"},lore=[{"bold":true,"color":"aqua","text":"Vindo de uma IA extremamente avançada."}]]

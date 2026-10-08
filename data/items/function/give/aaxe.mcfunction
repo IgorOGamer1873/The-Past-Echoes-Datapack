@@ -1,0 +1,1 @@
+give @s netherite_axe[custom_data={A:1b,IE:1b},custom_name={"italic":false,"bold":true,"color":"white","text":"Machado de Aethel"},unbreakable={},lore=[{"bold":true,"color":"white","text":"Pertenceu à Deusa que tudo criou"}],consumable={consume_seconds:1000000000}] 1

@@ -1,0 +1,1 @@
+execute as @a if items entity @s armor.chest minecraft:elytra[custom_data={capa_vento:1b,IE:1b}] run effect give @s minecraft:speed 1 1 true

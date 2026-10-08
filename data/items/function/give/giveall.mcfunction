@@ -1,0 +1,11 @@
+give @p netherite_axe[custom_data={Sac:1b,IE:1b},custom_name={"bold":true,"color":"black","italic":false,"text":"Machado de Batalha do Hastor"},unbreakable={}] 1
+give @p red_dye[custom_data={Berserker:1b,IE:1b},custom_name={"bold":true,"color":"dark_red","italic":false,"text":"Coração do Berserker"}] 1
+give @s diamond[enchantment_glint_override=true,custom_name={"text":"Coração de Aeralin","color":"aqua","bold":true,"italic":false},custom_data={Aeralin:1b,IE:1b}] 1
+give @p nether_star[custom_data={Bio:1b,IE:1b},custom_name={"bold":true,"color":"dark_green","italic":false,"text":"Bio-Catalisador"},lore=[{"bold":true,"color":"dark_green","italic":false,"text":"Consegue roubar propriedades de Mobs e Players com Itens Poderosos"}]] 1
+give @p rabbit_foot[custom_name={"bold":true,"color":"green","italic":false,"text":"Pé de Bonnir"},custom_data={Bonnir:1b,IE:1b}] 1
+give @p goat_horn[instrument="minecraft:ponder_goat_horn",custom_data={Horn:1b,IE:1b},custom_name={"bold":true,"color":"dark_gray","italic":false,"text":"Grito De Ferrun"}] 1
+give @p minecraft:diamond_sword[unbreakable={},custom_name={"text":"Espada do Guloso","color":"green","bold":true,"italic":false},custom_data={Guloso:1b,IE:1b}]
+give @p minecraft:black_dye[custom_name={"text":"Totem do Lobisomem","color":"gray","bold":true,"italic":false},minecraft:custom_data={lobisomem:1b,IE:1b}]
+give @p minecraft:iron_sword[unbreakable={},custom_name={"text":"Espada do Vampiro","color":"dark_red","bold":true,"italic":false},custom_data={Vamp:1b,IE:1b}]
+give @p blaze_rod[custom_name={"bold":true,"color":"dark_red","italic":false,"text":"Varinha do Inferno"},custom_data={VI:1b,IE:1b},enchantment_glint_override=true,enchantments={"fire_aspect":3,"sharpness":1,"knockback":4},damage=2] 1
+give @p golden_spear[custom_data={Zeus:1b,IE:1b},custom_name={"bold":true,"color":"gold","italic":false,"obfuscated":false,"strikethrough":false,"text":"Fúria de Zeus","underlined":false},unbreakable={},enchantments={"knockback":2}] 1

@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "using_item": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:rabbit_foot",
+            "predicates": {
+              "minecraft:custom_data": "{Bonnir:1b,IE:1b,E:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "items:bonnir/ativa/ativa"
+    }
+  }

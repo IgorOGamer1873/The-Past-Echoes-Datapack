@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{components:{"minecraft:custom_data":{IE:1b}}}}] run data merge entity @s {Invulnerable:1b,Age:-32768}

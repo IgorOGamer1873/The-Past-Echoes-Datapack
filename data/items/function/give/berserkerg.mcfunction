@@ -1,0 +1,1 @@
+give @p red_dye[custom_data={Berserker:1b,IE:1b},custom_name={"bold":true,"color":"dark_red","italic":false,"text":"Coração do Berserker"},minecraft:consumable={consume_seconds:1000000000},lore=[{"bold":true,"color":"dark_red","text":"Vindo de uma Besta com muita fúria."}]] 1

@@ -1,0 +1,1 @@
+execute as @s at @s if entity @a[distance=..10,scores={PegoGuloso=1..}] run effect give @s saturation 1 5 true

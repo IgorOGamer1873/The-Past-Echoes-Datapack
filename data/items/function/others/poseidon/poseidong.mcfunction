@@ -1,0 +1,1 @@
+give @p minecraft:heart_of_the_sea[custom_name=[{"text":"Coração de Poseidon","color":"aqua","bold":true,"italic":false}],unbreakable={},custom_data={Poseidon:1b,IE:1b}]

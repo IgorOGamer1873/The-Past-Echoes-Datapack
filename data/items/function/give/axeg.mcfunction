@@ -1,0 +1,1 @@
+give @p netherite_axe[custom_data={Sac:1b,IE:1b},custom_name={"bold":true,"color":"black","italic":false,"text":"Machado Vazio da Skarp"},unbreakable={},lore=[{"bold":true,"color":"black","text":"Nascido de um grande preço pago apenas por poder."}]] 1

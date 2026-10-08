@@ -1,0 +1,4 @@
+execute as @s at @s run effect give @a[distance=0.5..10] slowness 20 2 true
+execute as @a at @s if entity @a[distance=0.5..10,nbt={"SelectedItem":{id:"minecraft:gray_dye",components:{"minecraft:custom_data":{lobisomem:1b,IE:1b,E:1b}}}}] run effect give @a[nbt={"SelectedItem":{id:"minecraft:gray_dye",components:{"minecraft:custom_data":{lobisomem:1b,IE:1b,E:1b}}}}] speed 20 2 true
+execute as @a at @s if entity @a[distance=0.5..10,nbt={"SelectedItem":{id:"minecraft:gray_dye",components:{"minecraft:custom_data":{lobisomem:1b,IE:1b,E:1b}}}}] run scoreboard players set @a[nbt={"SelectedItem":{id:"minecraft:gray_dye",components:{"minecraft:custom_data":{lobisomem:1b,IE:1b,E:1b}}}}] LobisomemAB 2400
+scoreboard players set @s LobisomemA 1200

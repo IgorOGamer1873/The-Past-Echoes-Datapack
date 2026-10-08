@@ -1,0 +1,4 @@
+execute as @a[scores={VampHit=1..}] if items entity @s weapon.mainhand minecraft:iron_sword[custom_data={Vamp:1b,IE:1b,E:1b}] run scoreboard players add @s VampHeal 1
+execute as @a[scores={VampHit=1..}] if items entity @s weapon.mainhand minecraft:iron_sword[custom_data={Vamp:1b,IE:1b,E:1b}] run scoreboard players set @s VampHit 0
+execute as @a[scores={VampHeal=3..}] if items entity @s weapon.mainhand minecraft:iron_sword[custom_data={Vamp:1b,IE:1b,E:1b}] run effect give @s minecraft:instant_health 1 0 true
+execute as @a[scores={VampHeal=3..}] if items entity @s weapon.mainhand minecraft:iron_sword[custom_data={Vamp:1b,IE:1b,E:1b}] run scoreboard players set @s VampHeal 0

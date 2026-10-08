@@ -1,0 +1,1 @@
+give @p blaze_rod[custom_name={"bold":true,"color":"dark_red","italic":false,"text":"Varinha do Inferno evoluída"},custom_data={VI:1b,IE:1b,E:1b},enchantment_glint_override=true,enchantments={"fire_aspect":3,"sharpness":1,"knockback":4},damage=2,lore=[{"bold":true,"color":"dark_red","text":"Vindo do próprio Deus do Inferno."}],consumable={consume_seconds:1000000000}] 1

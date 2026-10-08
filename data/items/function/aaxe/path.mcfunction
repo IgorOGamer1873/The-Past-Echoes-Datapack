@@ -1,0 +1,2 @@
+execute as @a if items entity @s weapon.mainhand minecraft:netherite_axe[custom_data={A:1b,IE:1b}] if score @s AAxeHeal matches ..0 run function items:aaxe/effects
+scoreboard players remove @a AAxeHeal 1

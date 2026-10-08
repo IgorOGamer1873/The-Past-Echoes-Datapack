@@ -1,0 +1,9 @@
+execute if entity @a[scores={VI=1099}] run damage @s 1 minecraft:on_fire
+execute if entity @a[scores={VI=1080}] run damage @s 1 minecraft:on_fire
+execute if entity @a[scores={VI=1060}] run damage @s 1 minecraft:on_fire
+execute if entity @a[scores={VI=1040}] run damage @s 1 minecraft:on_fire
+execute if entity @a[scores={VI=1020}] run damage @s 1 minecraft:on_fire
+execute if entity @a[scores={VI=1000}] run damage @s 1 minecraft:on_fire
+execute if entity @a[scores={VI=960}] run damage @s 1 minecraft:on_fire
+execute if entity @a[scores={VI=920}] run damage @s 1 minecraft:on_fire
+execute if entity @a[scores={VI=919}] run tag @a[tag=FogoVI] remove FogoVI

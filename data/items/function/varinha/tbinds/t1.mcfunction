@@ -1,0 +1,1 @@
+execute as @a if score @s Ligamento_Varinha_Infernal matches 4 run function items:varinha/tbinds/t1.1

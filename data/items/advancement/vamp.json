@@ -1,0 +1,18 @@
+{
+    "criteria": {
+      "using_item": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:iron_sword",
+            "predicates": {
+              "minecraft:custom_data": "{Vamp:1b,E:1b}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "items:vampiro/ativa/ativa"
+    }
+  }

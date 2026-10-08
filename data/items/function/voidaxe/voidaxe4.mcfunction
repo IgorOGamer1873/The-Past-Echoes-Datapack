@@ -1,0 +1,9 @@
+tag @s add VoidAA
+scoreboard players set @s DamageD 0
+scoreboard players set @s DamageT 0
+scoreboard players set @s VoidD 0
+scoreboard players set @s VoidT 0
+scoreboard players set @s Void 3000
+scoreboard players remove @s PK 3
+
+
