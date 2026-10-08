@@ -8,6 +8,8 @@ O The Past Echoes (TPE) é um servidor independente de Minecraft Java que estou 
 
 ## Instalação
 
+Você deve clonar o repositório ou baixar o .zip em releases e fazer a instalação correta de acordo com seu Sistema Operacional.
+
 ### Linux
 Para instalar no Linux, você precisa acessar a pasta de datapacks do seu mundo, geralmente em "/home/$USER/.local/share/PrismLauncher/instances/NOME_DA_VERSÃO/saves/NOME_DO_MUNDO/datapacks/." para quem usa Prism Launcher ou "/home/$USER/.minecraft/saves/NOME_DO_MUNDO/datapacks/." para quem usa o Laucnher Oficial e colocar a pasta ou o .zip lá.
 
