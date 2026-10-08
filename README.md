@@ -25,6 +25,6 @@ Alguns itens com poderes.
 Evoluções dos itens.  
 Ligamentos para melhorar os itens.  
 
-Futuramente bosses
+Futuramente bosses...
 
 
