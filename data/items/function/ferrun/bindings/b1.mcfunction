@@ -1,0 +1,1 @@
+execute as @a if items entity @s container.* minecraft:goat_horn[minecraft:custom_data={Horn:1b,IE:1b,E:1b}] run effect give @s resistance 1 0 true

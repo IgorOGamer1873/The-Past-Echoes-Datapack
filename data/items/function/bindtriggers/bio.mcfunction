@@ -1,0 +1,2 @@
+execute as @a unless items entity @s container.* nether_star[custom_data={Bio:1b,IE:1b,E:1b}] run scoreboard players reset @s Ligamento_Bio_Catalizador
+execute as @a[tag=TemBind] if items entity @s weapon.mainhand nether_star[custom_data={Bio:1b,IE:1b,E:1b}] run scoreboard players enable @s Ligamento_Bio_Catalizador

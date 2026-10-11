@@ -1,0 +1,2 @@
+execute as @a unless items entity @s container.* goat_horn[custom_data={Horn:1b,IE:1b,E:1b}] run scoreboard players reset @s Ligamento_Grito_De_Ferrun
+execute as @a[tag=TemBind] if items entity @s weapon.mainhand goat_horn[custom_data={Horn:1b,IE:1b,E:1b}] run scoreboard players enable @s Ligamento_Grito_De_Ferrun

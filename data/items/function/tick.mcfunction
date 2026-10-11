@@ -20,10 +20,10 @@ function items:others/vento/vento
 function items:others/poseidon/poseidon
 function items:zeus
 function items:axe
-function items:goat
+function items:ferrun/path
 function items:others/pearl/pearl
 function items:berserker/berserker
-function items:bio
+function items:bio/path
 function items:others/core/core
 function items:aeralin
 function items:varinha/path
@@ -43,3 +43,4 @@ function items:aaxe/aaxe
 function items:aaxe/ativa/ativa3
 function items:bindtriggers/path
 function items:vampiro/path
+function items:bio/path

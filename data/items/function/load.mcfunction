@@ -60,4 +60,7 @@ scoreboard objectives add VI dummy
 scoreboard objectives add Ligamento_Varinha_Infernal trigger
 scoreboard objectives add BonnirA dummy
 scoreboard objectives add Ligamento_Pe_De_Bonnir trigger
+scoreboard objectives add Ligamento_Grito_De_Ferrun trigger
+scoreboard objectives add BioCat dummy
+scoreboard objectives add Ligamento_Bio_Catalizador trigger
 tellraw @a {"color":black,"bold":true,"text":"Ele carregou, todos os sistemas foram inicializados!"}
