@@ -63,4 +63,5 @@ scoreboard objectives add Ligamento_Pe_De_Bonnir trigger
 scoreboard objectives add Ligamento_Grito_De_Ferrun trigger
 scoreboard objectives add BioCat dummy
 scoreboard objectives add Ligamento_Bio_Catalizador trigger
+scoreboard objectives add Ligamento_Chip_Mestre trigger
 tellraw @a {"color":black,"bold":true,"text":"Ele carregou, todos os sistemas foram inicializados!"}

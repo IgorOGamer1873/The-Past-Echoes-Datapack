@@ -1,0 +1,1 @@
+execute as @a[scores={Ligamento_Bio_Catalizador=4}] run function items:bio/tbinds
