@@ -1,0 +1,2 @@
+execute as @a unless items entity @s container.* golden_spear[custom_data={Zeus:1b,IE:1b,E:1b}] run scoreboard players reset @s Ligamento_Furia_de_Zeus
+execute as @a[tag=TemBind] if items entity @s weapon.mainhand golden_spear[custom_data={Zeus:1b,IE:1b,E:1b}] run scoreboard players enable @s Ligamento_Furia_de_Zeus

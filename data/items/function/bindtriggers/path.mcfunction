@@ -6,3 +6,5 @@ function items:bindtriggers/bonnir/bonnirb
 function items:bindtriggers/ferrun/ferrunb
 function items:bindtriggers/bio
 function items:bindtriggers/chipm
+function items:bindtriggers/aeralinb
+function items:bindtriggers/zeusb

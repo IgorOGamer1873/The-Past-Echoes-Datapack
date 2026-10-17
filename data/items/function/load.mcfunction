@@ -64,4 +64,7 @@ scoreboard objectives add Ligamento_Grito_De_Ferrun trigger
 scoreboard objectives add BioCat dummy
 scoreboard objectives add Ligamento_Bio_Catalizador trigger
 scoreboard objectives add Ligamento_Chip_Mestre trigger
+scoreboard objectives add AeralinAtiva dummy
+scoreboard objectives add Ligamento_Coracao_de_Aeralin trigger
+scoreboard objectives add Ligamento_Furia_de_Zeus trigger
 tellraw @a {"color":black,"bold":true,"text":"Ele carregou, todos os sistemas foram inicializados!"}

@@ -1,0 +1,2 @@
+execute as @a unless items entity @s container.* diamond[custom_data={Aeralin:1b,IE:1b,E:1b}] run scoreboard players reset @s Ligamento_Coracao_de_Aeralin
+execute as @a[tag=TemBind] if items entity @s weapon.mainhand diamond[custom_data={Aeralin:1b,IE:1b,E:1b}] run scoreboard players enable @s Ligamento_Coracao_de_Aeralin
