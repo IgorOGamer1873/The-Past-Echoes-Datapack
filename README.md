@@ -28,3 +28,5 @@ Ligamentos para melhorar os itens.
 Futuramente bosses...
 
 
+
+Copyright (C) 2026 IgorOGamer1873. Licenciado sob a GPL-3.0, veja o arquivo LICENSE.
